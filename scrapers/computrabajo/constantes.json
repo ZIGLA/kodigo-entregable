@@ -1,0 +1,35 @@
+{
+    "DATA_PAISES" : {
+        "Costa Rica":   {"URL":"cr.computrabajo.com"},
+        "El Salvador": {"URL":"sv.computrabajo.com"},
+        "Guatemala": {"URL":"gt.computrabajo.com"},
+        "Honduras": {"URL":"hn.computrabajo.com"},
+        "Nicaragua": {"URL":"ni.computrabajo.com"},
+        "Panamá": {"URL":"pa.computrabajo.com"}
+
+    },
+    "HEADERS" : {
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "accept-language": "es-AR,es-419;q=0.9,es;q=0.8,en;q=0.7",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "cookie": "_ga=GA1.2.1594778953.1709821541; _gid=GA1.2.922888502.1709821541; ct_consent=1; __gsas=ID=d657f5bc2511722e:T=1709821545:RT=1709821545:S=ALNI_MY9UmC9raHjIUkUJor3S_O5lKvr4g; ut=7A6AB4CB31FB18327A9832CA7ED0CF8BE9EC610C303CAC62F304FB8FA4CE6C433A028447BE5CB85B; cla=19794616BDD71C5F61373E686DCF3405&; _gat=1",
+        "sec-ch-ua": "\"Chromium\";v=\"122\", \"Not(A:Brand\";v=\"24\", \"Google Chrome\";v=\"122\")\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "x-requested-with": "XMLHttpRequest"
+    },
+    "CLASES":{
+        "links_ofertas":"js-o-link fc_base",
+        "date":"fs13 fc_aux mt15",
+        "name_jobLoc":"fs16",
+        "titulo":"fwB fs24 mb5 box_detail w100_m",
+        "descripcion":"mbB",
+        "requisitos":"disc mbB",
+        "tags":"tag base mb10",
+        "palabras_clave":"fc_aux fs13 mbB mtB"    
+    }
+}

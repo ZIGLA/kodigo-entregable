@@ -1,0 +1,111 @@
+{   
+    "keywords": {
+        "categorias":{
+            "Busqueda del sector tech":["dev", "developer*", "devops", "frontend", "backend", "fullstack", "front-end", "back-end", "full-stack", "full stack", "front end", "back end", "stack", "end", "front", "javascript", "html", "css", "c++", "c#", "java", "python", "react", "react.js", "angular", "vue", "vue.js", "node", "node.js", "django", "laravel", "ruby", "php", "flask", "analytics", "scientist", "analista datos", "data analyst", "data scientist", "cientifico datos", "bases datos", "visualizacion", "bi", "power bi", "tableau", "locker", "google data studio", "domo", "qlickview", "etl", "matplot", "big query", "hadoop", "sql", "nosql", "r", "stata", "mysql", "postgresql", "mongo", "mongodb", "estadistica*", "machine", "machine learning", "big data", "clustering", "algoritmo*", "nodo*", "ux", "ui", "designer", "figma", "invision", "axure", "adobe xd", "sketch", "diseñador*", "soporte it", "soporte tecnico", "tester", "mesa ayuda", "ciber seguridad", "cloud", "ia", "cyber security"],
+            "Desarrollador":["dev", "developer*", "devops", "frontend", "backend", "fullstack", "front-end", "back-end", "full-stack", "full stack", "front end", "back end", "stack", "end", "front", "javascript", "html", "css", "c++", "c#", "java", "python", "react", "react.js", "angular", "vue", "vue.js", "node", "node.js", "django", "laravel", "ruby", "php", "flask"],
+            "Data science / analytics": ["analytics", "scientist", "analista datos", "data scientist", "cientifico datos", "visualizacion", "bi", "power bi", "tableau", "locker", "google data studio", "domo", "qlickview", "etl", "matplot", "big query", "hadoop", "sql", "nosql", "r", "stata", "mysql", "postgresql", "mongo", "mongodb", "estadistica*", "machine", "clustering", "algoritmo*", "nodo*", "bases datos", "big data"],
+            "Diseñador ux/ui": ["ux", "ui", "designer", "figma", "invision", "axure", "adobe xd", "sketch", "diseñador*"],
+            "otros puestos tech":["soporte it", "soporte tecnico", "tester", "mesa ayuda", "ciber seguridad", "cloud", "ia", "cyber security", "machine learning"],
+            "front-end":["frontend", "front-end", "front end", "front","javascript", "html", "css", "react", "react.js", "angular", "vue", "vue.js"],
+            "back-end":["backend", "back-end","back end", "java", "node", "node.js", "django", "laravel", "php", "flask"],
+            "full-stack":["fullstack", "full-stack", "full stack", "stack"],
+            "javascript": ["javascript"],
+            "python":["python"],
+            "java":["java"],
+            "html":["html"],
+            "c++":["c++"],
+            "c#":["c#"],
+            "php":["php"],
+            "swift":["swift"],
+            "ruby":["ruby"],
+            "kotlin":["kotlin"],
+            "sql":["sql"],
+            "docker":["docker"],
+            "react":["react", "react.js"],
+            "angular":["angular"],
+            "vue":["vue", "vue CLI"],
+            "django":["django"],
+            "laravel":["laravel"],
+            "Symfony":["Symfony"],
+            "node.js":["node.js", "node"],
+            "flask":["flask"],
+            ".net":[".net"],
+            "seaborn":["seaborn"],
+            "bases de datos relacionales":["sql", "mysql", "postgresql", "sqlite", "sql server"],
+            "bases de datos no relacionales":["mongo", "mongodb", "cassandra", "redis", "firebase", "firestone"],
+            "google cloud":["google cloud"],
+            "azure":["azure"],
+            "aws":["aws", "amazon web services"],
+            "scrum":["scrum"],
+            "agile":["agile"],
+            "devops":["devops"],
+            "ci/cd":["ci","cd","integracion continua", "entrega continua"],
+            "control de versiones":["git", "github", "gitlab", "bitbucket"],
+            "power bi":["power bi"],
+            "tableau":["tableau"],
+            "looker studio":["looker", "google data studio"],
+            "zoho analytics":["zoho analytics"],
+            "domo":["domo"],
+            "qlickview":["qlickview"],
+            "Excel/GSheets":["excel", "gsheets", "planillas calculo", "hojas calculo"],
+            "ingles":["ingles"],
+            "portugues":["portugues"],
+            "Presencial":["presencial", "en persona", "de oficina", "nuestras oficinas", "nuestra oficina"],
+            "Virtual":["Virtual", "home office", "remoto", "distancia", "desde casa", "teletrabajo", "remot*"],
+            "Hibrido":["Hibrid*", "presencial/Remoto", "flexibl*", "Presencial y remoto"],
+            "requiere experiencia":["graduad*", "diplomad*", "titulad*", "licenciad*", "maestria", "doctor*", "estudios completos", "estudiante avanzado",  "especialista", "expert*", "experiencia mayor", "con experiencia", "coordinador*", "director*",  "jef*", "supervisor*", "sr", "senior", "ssr", "gerent*", "manager", "lider", "team leader"],
+            "Tiempo Completo":["tiempo completo", "jornada completa", "full time", "full-time", "8 horas", "8hs", "9 horas", "9hs", "jornada larga"],
+            "Medio Tiempo":["medio tiempo", "media jornada", "jornada parcial", "horario parcial", "part time", "part-time", "aprendiz", "aprendices", "practicante", "practica tecnica", "practica profesional", "pasant*", "becari*", "profesionalizante", "4 horas", "4hs", "5hs", "5 horas", "practica universitaria"],
+            "Indefinido / por horas":["por hora*", "sin horario", "horario indefinido", "rotativo*"]
+        },
+        "perfiles":{
+            "Desarrollador":["dev", "developer*", "devops", "frontend", "backend", "fullstack", "front-end", "back-end", "full-stack", "full stack", "front end", "back end", "stack", "end", "front", "javascript", "html", "css", "c++", "c#", "java", "python", "react", "react.js", "angular", "vue", "vue.js", "node", "node.js", "django", "laravel", "ruby", "php", "flask"],
+            "Data science / analytics": ["analytics", "scientist", "analista datos", "data scientist", "cientifico datos", "visualizacion", "bi", "power bi", "tableau", "locker", "google data studio", "domo", "qlickview", "etl", "matplot", "big query", "hadoop", "sql", "nosql", "r", "stata", "mysql", "postgresql", "mongo", "mongodb", "estadistica*", "machine", "clustering", "algoritmo*", "nodo*", "bases datos", "big data"],
+            "Diseñador ux/ui": ["ux", "ui", "designer", "figma", "invision", "axure", "adobe xd", "sketch", "diseñador*"],
+            "otros puestos tech":["soporte it", "soporte tecnico", "tester", "mesa ayuda", "ciber seguridad", "cloud", "ia", "cyber security", "machine learning"]
+        },
+        "jornada":{
+            "Tiempo Completo":["tiempo completo", "jornada completa", "full time", "full-time", "8 horas", "8hs", "9 horas", "9hs", "jornada larga"],
+            "Medio Tiempo":["medio tiempo", "media jornada", "jornada parcial", "horario parcial", "part time", "part-time", "aprendiz", "aprendices", "practicante", "practica tecnica", "practica profesional", "pasant*", "becari*", "profesionalizante", "4 horas", "4hs", "5hs", "5 horas", "practica universitaria"],
+            "Indefinido / por horas":["por hora*", "sin horario", "horario indefinido", "rotativo*"]
+        },
+        "modalidad":{
+            "Presencial":["presencial", "en persona", "de oficina", "nuestras oficinas", "nuestra oficina"],
+            "Virtual":["Virtual", "home office", "remoto", "distancia", "desde casa", "teletrabajo", "remot*"],
+            "Hibrido":["Hibrid*", "presencial/Remoto", "flexibl*", "Presencial y remoto"]
+        },
+        "educacion":{
+            "Universitario en curso":["estudiante", "universitario", "universitario*", "universitaria curso", "universitario curso", "Cursando carrera", "promediando carrera", "grado curso", "estudiante universitario", "universitario*", "universitar*"],
+            "Universitario finalizado":["universitaria finalizada", "universitario terminado", "graduad*", "licenciado", "diplomad*", "titulad*", "universitario completo", "tecnico recibido", "Universidad", "Postgrado"]
+        },
+        "filtro_educacion":{
+            "filtrado":["graduado nivel medio", "graduado diversificado", "graduado diversificado*", "graduado nivel diversificado", "diversificado", "diversificado*", "titulado bachillerato", "graduada basico", "bachiller", "bachiller*", "bachillerato"]
+        },
+        "filtro_educacion2":{
+            "Otro":["educacion", "Educacion", "graduado", "graduado*", "*secundaria", "*licenciatura", "*bachiller", "*educacion", "educacion*", "*educacion", "graduado nivel medio", "graduado diversificado", "graduado diversificado*", "graduado nivel diversificado", "diversificado", "diversificado*", "titulado bachillerato", "graduada basico", "bachiller", "bachiller*", "bachillerato"]
+        },
+        "experiencia":{
+            "requiere experiencia":["graduad*", "diplomad*", "titulad*", "licenciad*", "maestria", "doctor*", "estudios completos", "estudiante avanzado",  "especialista", "expert*", "experiencia mayor", "con experiencia", "coordinador*", "director*",  "jef*", "supervisor*", "sr", "senior", "ssr", "gerent*", "manager", "lider", "team leader"]
+        },
+        "empresas":{
+            "Administradora centroamericana de talentos":["Administradora Centroamericana de Talentos S.A","ADMINISTRADORA CENTROAMERICANA DE TALENTOS, SOCIEDAD ANONIMA"],
+            "BairesDev":["BairesDev","BairesDev SA"],
+            "Cable Color":["CABLE COLOR","CABLE COLOR"],
+            "Claro":["CLARO","CLARO Dominicana"],
+            "Ferromax":["Ferromax","Ferromáx S.A","Ferromax S.A."],
+            "Identity":["Identity","Identity/ People"],
+            "La Chapina":["La Chapina S.A. de C.V.","LA CHAPINA, S.A. DE C.V."],
+            "Manpower":["Manpower Costa Rica","Manpower Group","Manpower Nicaragua","Manpower Professional","Manpower, S.A."],
+            "People":["People Working Corp","People Working Corp.","People y Process S de RL de CV"],
+            "PLIRET":["PLIRET" ,"PLIRET, S.A de C.V"],
+            "Talento Centroamerica":["TALENTO CENTROAMERICA","Talento Centroamerica,S.A."],
+            "Unicomer":["Unicomer","UNICOMER EL SALVADOR","UNICOMER GUATEMALA","UNICOMER, S.A."],
+            "Walmart":["WALMART","Walmart Centroamérica","Walmart de Mexico y Centroamerica"]
+        },
+        "contrato":{
+            "Contrato por tiempo determinado":["Pasantía", "Por proyecto", "Contrato por tiempo determinado", "Contrato de obra o labor"],
+            "Contrato por tiempo indefinido":["Contrato por tiempo indefinido"],
+            "Otro tipo de contrato":["Cualquier tipo de contratación", "Por comisión", "Por horas", "Independiente", "Otro tipo de contrato", "Contrato de Aprendizaje"]
+        }
+    }
+}
